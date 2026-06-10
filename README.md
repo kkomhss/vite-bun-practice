@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Vite + Bun Practice
 
